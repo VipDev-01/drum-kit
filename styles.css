@@ -16,12 +16,14 @@ body {
 .sound {
     border: 1px solid black;
     padding: 50px;
-    background-color: rgb(116, 167, 94);
+    background-color: lightsteelblue;
+    color: rgb(179, 27, 27);
+    font-size: larger;
     transition: all 0.07s;
 }
 
 .playing {
-    border: 3px solid blue;
+    border: 7px solid rgba(0, 0, 0, 0.709);
     transform: scale(1.1);
 }
 
